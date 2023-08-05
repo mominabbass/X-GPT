@@ -1,7 +1,3 @@
-## X-GPT
-
-Introducing an affordable and computationally lightweight Chatbot, presenting a viable alternative to ChatGPT.
-
 ---
 title: Llama 2 7B Chat
 emoji: 🏆
@@ -13,6 +9,10 @@ app_file: app.py
 pinned: false
 suggested_hardware: a10g-small
 ---
+
+# X-GPT
+
+Introducing an affordable and computationally lightweight Chatbot, presenting a viable alternative to ChatGPT.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
