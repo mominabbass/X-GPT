@@ -1,5 +1,7 @@
-# X-GPT
+## X-GPT
+
 Introducing an affordable and computationally lightweight Chatbot, presenting a viable alternative to ChatGPT.
+
 ---
 title: Llama 2 7B Chat
 emoji: 🏆
