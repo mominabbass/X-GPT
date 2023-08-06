@@ -1,6 +1,6 @@
 # X-GPT
 
-Introducing an affordable and computationally lightweight Chatbot, presenting a viable alternative to ChatGPT.
+X-GPT is a ChatGPT-like Chatbot with comparable performance but drastically lower memory and computation requirements. It operates efficiently with just ~10GB of GPU memory, fitting snugly into a single 16GB GPU, presenting a viable alternative to ChatGPT.
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
